@@ -1,0 +1,10 @@
+/* Убираем боковую панель */
+.wy-side-nav-search {
+    display: none;
+}
+
+/* Увеличиваем ширину основного контента */
+.wy-nav-content {
+    max-width: 90%;
+    margin: auto;
+}
